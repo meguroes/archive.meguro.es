@@ -1,0 +1,11 @@
+<div class="global-title">
+  <h1 class="global-title__title"><a href="/"><%- config.title %></a></h1>
+  <h2 class="global-title__subtitle"><%- config.subtitle %></h2>
+</div>
+<nav>
+  <ul>
+    <% for (var i in theme.menu){ %>
+      <li><a href="<%- theme.menu[i] %>"><%= i %></a></li>
+    <% } %>
+  </ul>
+</nav>
