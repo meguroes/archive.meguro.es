@@ -1,8 +1,7 @@
 nav-height = 64 + 3*2px
 
 #header
-  height nav-height
-  padding 35px 0
+  padding 20px 0 0 0
   .global-title
     .global-title__title
       font-size 2.0em
@@ -20,14 +19,19 @@ nav-height = 64 + 3*2px
       text-align center
   nav
     font 1.5em font-title
-    line-height nav-height
     ul
+      margin 10px 0
       list-style none
       text-align center
       li
         margin 0 50px
         display inline-block
-
+        +sp()
+          margin 0
+          font-size .7em
+          &:not(:nth-last-child(1)):after
+            content "/"
+            margin 0 5px
       a
         color #000000
         opacity 0.7

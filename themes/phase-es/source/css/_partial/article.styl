@@ -28,6 +28,8 @@ article
             vertical-align super
 
     time
+      +sp()
+        position initial
       color color-meta
       position absolute
       top 15px
@@ -36,6 +38,9 @@ article
       user-select none
       .day
         font-size 2em
+        +sp()
+          position initial
+          font-size 1em
 
       .month
         &:before
@@ -207,6 +212,8 @@ article
   header, .entry-content
     border-left 1px solid color-border
     margin-left meta-width + 20*2px
+    +sp()
+      margin-left 0
 
   .entry-content
     position relative

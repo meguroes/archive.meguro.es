@@ -6,10 +6,12 @@ body
   background-attachment fixed
   background-color color-background
   background-image url(images/logo_squirrel.png) 
-  background-position left bottom
+  background-position center bottom
   background-repeat no-repeat
   font 300 14px font-main
   text-shadow 0 0 1px transparent
+  +sp()
+    background-size 60%
 
 h1
   font-size 2em
@@ -41,3 +43,5 @@ strong
   position relative
   width 1000px
   z-index 0
+  +sp()
+    width: 98%
