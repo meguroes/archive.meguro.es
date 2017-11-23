@@ -30,16 +30,24 @@ Meguro.esは、原則として偶数月の平日に開催しています。
   - 2016年8月4日(木) @株式会社ドリコム
 - [Meguro.es#6](http://meguroes.connpass.com/event/39081/)
   - 2016年10月13日(木) @株式会社ドリコム
-- 第7回
-  - 2016年12月8日(木) 開催予定
-
-# Meguro.esからのお知らせ
+- [Meguro.es #7 @ Livesense](https://meguroes.connpass.com/event/42003/)
+  - 2016年12月8日(木) @株式会社リブセンス
+- [Meguro.es #8 @ アカツキ](https://meguroes.connpass.com/event/47839/)
+  - 2017年2月7日(火) @株式会社アカツキ
+- [Meguro.es x Gotanda.js #1 in Drecom](https://meguroes.connpass.com/event/49543/)
+  - 2017年4月28日(金) @株式会社ドリコム (#9としてカウント)
+- [Meguro.es #10 @ ラクスル](https://meguroes.connpass.com/event/55646/)
+  - 2017年6月15日(木) @ラクスル株式会社
+- [Meguro.es #11 @ oRo](https://meguroes.connpass.com/event/61531/)
+  - 2017年8月24日(木) @株式会社オロ
+- [Meguro.es #12 @ アカツキ](https://meguroes.connpass.com/event/69282/)
+  - 2017年10月27日(金) @株式会社アカツキ
 
 
 ## 会場募集中
 
 Meguro.esでは会場を募集しております。
-目黒区・目黒駅周辺・目黒線界隈のセミナールームや会議室に心当たりのある方、提供いただける方はtwitterにてご連絡ください。
+目黒区・目黒駅周辺・目黒線界隈のセミナールームや会議室にお心当たりのある方、ご提供いただける方はtwitterにてご連絡ください。
 PCを用いた発表と飲食が可能なスペースを探しております。
 
 
