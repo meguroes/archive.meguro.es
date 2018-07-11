@@ -1,7 +1,7 @@
 ---
 title: "Meguro.es ✕  Gotanda.js を開催いたします"
 date: 2017-03-21 19:00:00
-tags: meguroes, gotandajs
+tags: [meguroes, gotandajs]
 ---
 
 ## Meguro.es ✕ Gotanda.js #1 開催決定!

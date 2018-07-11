@@ -1,7 +1,7 @@
 ---
 title: "Meguro.es #14 開催します"
 date: 2018-03-06 20:00:00
-tags: meguroes
+tags: [meguroes]
 ---
 
 ## Meguro.es #14 @ CrowdWorks 開催決定!

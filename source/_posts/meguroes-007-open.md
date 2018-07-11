@@ -1,7 +1,7 @@
 ---
 title: "Meguro.es #7 募集開始します"
 date: 2016-11-01 12:00:00
-tags: meguroes
+tags: [meguroes]
 ---
 
 ## Meguro.es #7 @ Livesense 開催決定!
