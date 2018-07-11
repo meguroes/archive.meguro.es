@@ -1,7 +1,7 @@
 ---
 title: "Meguro.esは1周年を迎えました!Meguro.esの工夫や取り組み"
 date: 2016-12-08 12:00:00
-tags:
+tags: [blog]
 ---
 
 この記事は、 [IT勉強会/コミュニティ運営 Advent Calendar 2016](http://qiita.com/advent-calendar/2016/event-management) の8日目の記事です。

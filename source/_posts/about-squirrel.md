@@ -1,7 +1,7 @@
 ---
 title: Meguro.リスについて
 date: 2016-10-30 12:00:00
-tags: [about]
+tags: [info]
 ---
 
 
