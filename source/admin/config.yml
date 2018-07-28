@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: meguroes/meguro.es
+  branch: test/foo
+
+media_folder: source/images/
+
+collections:
+- name: "blog"
+  label: "Blog"
+  folder: "source/_posts"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - {label: "Title(ファイル名にもなります。日本語OK)", name: "title", widget: "string"}
+    - {label: "permalink(URLになります)", name: "permalink", widget: "string", pattern: ["[a-z0-9-_]+", "[a-z0-9-_]+"]}
+    - {label: "Publish Date", name: "date", widget: "datetime", default: "", format: "YYYY-MM-DD HH:mm:ss"}
+    - {label: "Categories", name: "tags", widget: "list", default: ["meguroes"]}
+    - {label: "Content", name: "body", widget: "markdown"}
+    - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
