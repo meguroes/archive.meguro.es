@@ -33,6 +33,6 @@ tags: [meguroes]
 <script async class="speakerdeck-embed" data-id="aa58c64143cb498d87ac484608d0fbdf" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Webカメラ × WebGL で VJ をやってみた
-[Ko.Yelie エリー]（https://connpass.com/user/Ko-Yelie/)
+[Ko.Yelie エリー](https://connpass.com/user/Ko-Yelie/)
 
 <iframe src="//slides.com/ko-yelie/webcam-webgl-vj/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
