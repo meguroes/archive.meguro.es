@@ -3,3 +3,4 @@ db.json
 public/
 node_modules/
 .deploy_git/
+yarn-error.log
