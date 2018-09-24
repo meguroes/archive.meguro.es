@@ -1,6 +1,7 @@
 menu:
   "Meguro.esについて": /about
   "記事一覧": /archives
+  "connpass": https://meguroes.connpass.com
 
 addthis:
   enable: true
